@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: mtraker
+Version: 1.0
+Summary: Provides a decorator for memory usage tracking. The part of FOSS course.
+Home-page: https://github.com/sxannyy/mtracker_test.git
+Author: Sasha Sanzhitova
+Author-email: sxannyy@gmail.com
+License: MIT
+Requires-Python: >=3
+License-File: LICENSE
+Provides-Extra: test
+Requires-Dist: pytest; extra == "test"
+Requires-Dist: coverage; extra == "test"
