@@ -6,7 +6,7 @@ setup(
    description='Provides a decorator for memory usage tracking. The part of FOSS course.',
    license='MIT',
    author='Sasha Sanzhitova',
-   author_email='sxannyy@gmail.com',
+   author_email='sxannyy@mail.ru',
    url='https://github.com/sxannyy/mtracker_test.git',
    packages=['mtracker'],
    install_requires=[], # it is empty since we use standard python library
